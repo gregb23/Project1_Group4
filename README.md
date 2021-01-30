@@ -1,8 +1,8 @@
 # The Effect of Housing Value on School Rating
 
 ## Group Members: 
-Gregory Brown \n
-Sam Azhari \n
+Gregory Brown 
+Sam Azhari 
 Kim Sommer
 
 ## Project Idea
