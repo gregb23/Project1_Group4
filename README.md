@@ -1,4 +1,4 @@
-# The Effect of Housing Value on School Rating
+# Housing Value and School Rating
 
 ## Group Members: 
 Gregory Brown <br>
@@ -12,11 +12,14 @@ This project will try to establish and illustrate a link between housing value i
 There is no correlation between housing values and school ratings.
 
 ### Alternative Hypothesis
-Housing values affect school ratings. Schools in zip codes with higher housing values have higher ratings.
+Housing values correlate with school ratings. Schools in zip codes with higher housing values have higher ratings.
 
 ### Data Sources
-FLDOE.org - Florida schools database <br> 
-CSV file for property value data of Hillsborough County: ftp://sdrftp03.dor.state.fl.us/Tax%20Roll%20Data%20Files/2020%20Final%20Tangible%20Personal%20Property%20Files/ <br>
+CSV files from http://www.fldoe.org/accountability/accountability-reporting/school-grades/ <br> 
+<p> SchoolGrades19.csv (school ratings from 1999 to 2019) <br>
+ improvement_ratings_19.csv (school improvement ratings) <br>
+ SIRCalcGuide19.pdf (explains how to read improvement ratings) </p><br>
+CSV file for property value data of Hillsborough County: <p>ftp://sdrftp03.dor.state.fl.us/Tax%20Roll%20Data%20Files/2020%20Final%20Tangible%20Personal%20Property%20Files/ </p><br>
 https://gis2017-01-10t133755357z-hillsborough.opendata.arcgis.com/ - Data for schools in Hillsborough County <br>
 https://data.census.gov/cedsci/profile?g=0500000US12057 - Census data for Hillsborough County <br>
 https://crime-data-explorer.fr.cloud.gov/api - Crime information from FBI database <br>
