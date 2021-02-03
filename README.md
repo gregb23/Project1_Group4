@@ -12,7 +12,7 @@ This project will try to establish and illustrate a link between housing value i
 There is no correlation between housing values and school ratings.
 
 ### Alternative Hypothesis
-Housing values affect school ratings. Schools in zip codes with higher housing values have higher ratings.
+Housing values correlate with school ratings. Schools in zip codes with higher housing values have higher ratings.
 
 ### Data Sources
 CSV files from http://www.fldoe.org/accountability/accountability-reporting/school-grades/ <br> 
