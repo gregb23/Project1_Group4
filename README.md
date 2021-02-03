@@ -1,4 +1,4 @@
-# The Effect of Housing Value on School Rating
+# Housing Value and School Rating
 
 ## Group Members: 
 Gregory Brown <br>
