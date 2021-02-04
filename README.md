@@ -22,7 +22,7 @@ CSV files from http://www.fldoe.org/accountability/accountability-reporting/scho
 CSV file for property value data of Hillsborough County: <p>ftp://sdrftp03.dor.state.fl.us/Tax%20Roll%20Data%20Files/2020%20Final%20Tangible%20Personal%20Property%20Files/ </p><br>
 https://gis2017-01-10t133755357z-hillsborough.opendata.arcgis.com/ - Data for schools in Hillsborough County <br>
 https://data.census.gov/cedsci/profile?g=0500000US12057 - Census data for Hillsborough County <br>
-https://crime-data-explorer.fr.cloud.gov/api - Crime information from FBI database <br>
+https://gis.hcso.tampa.fl.us/publicgis/crimemapping/ - CSV file from Hillsborough County Sheriff's office  <br>
 
 ### How We Will Investigate
 We will establish the method for rating schools through the Department of Education databases, then determine the rating of the schools for the Hillsborough County schools we are investigating. We will draw data from the US Census data to establish housing values within the zip codes and compare them to the school ratings in the same zip code. We can draw crime data from the FBI database to determine if there is a correlation between crime rate and property value.
