@@ -1,3 +1,6 @@
+# Note for the graders: <br>
+Instead of using the branches, we have been putting our contributions into individual file folders. The folder labeled "Materials_to_be_graded" contains the final combined files of our work.
+
 # Housing Value and School Rating
 
 ## Group Members: 
